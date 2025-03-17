@@ -1,5 +1,5 @@
 # Azure End-to-End Data Engineering Real-Time Project
-This project is a data engineering pipeline solution to a made-up business problem, created to aid in my learning and understanding of data pipelining. I followed the tutorial from [this YouTube video](https://www.youtube.com/watch?v=ygJ11fzq_ik).
+This project is a data engineering pipeline solution to a made-up business problem, created to aid in my learning and understanding of data pipelining. I followed the tutorial from [this courses](https://www.youtube.com/watch?v=ygJ11fzq_ik).
 
 ## Project Overview
 
